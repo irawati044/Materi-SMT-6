@@ -30,4 +30,6 @@
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 
+
 11. Pastikan Sudah berhasil
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/80148449-c008-4dfb-ae85-66aad3011b67" />
