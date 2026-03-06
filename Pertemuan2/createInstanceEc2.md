@@ -7,7 +7,7 @@
 5. Os pilih Linux Ubuntu
 6. Instance Type pilih T3,Micro
 7. MembuatKeypair -> Create new Keypair -> Isi nama -> file .Pem -> Pilih Create
-8. Network Security
+8. Network Security 
 - Allow Allow SSH traffic from
 - Allow HTTP
 - Allow HTTS
