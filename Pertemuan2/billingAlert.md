@@ -13,7 +13,7 @@
     - All Service pilih Cloudwatch
     ![alt text](image-1.png)
 
-3. Pilih menu Create alarm
+3. Pilih menu createalarm
     - Pastikan Region ada di US N Virginia
     - Klik menu Create Alarm
     - Klik Metric
