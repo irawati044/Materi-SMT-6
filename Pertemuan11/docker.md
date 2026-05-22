@@ -50,4 +50,4 @@
 - sudo systemctl disable nginx
 - add ubuntu to docker group -> sudo usermod -aG docker ubuntu
 - commit dan push -> dan cek di website
-![alt text](image-6.png)
+![alt text](<Screenshot 2026-05-22 125328.png>)
